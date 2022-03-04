@@ -9,8 +9,11 @@ Link do vídeo explicativo https://youtu.be/q_s5LkIRCVk
 * DEPENDENCIAS *
 
 yarn add express
+
 yarn add nodemailer
+
 yarn add googleapis
+
 yarn add cors
 
 
